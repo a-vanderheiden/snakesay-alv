@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2025.10.20-2-g5cc8cd9
+_src_path: gh:scientific-python/cookie
+backend: hatch
+email: andrewloyd19@gmail.com
+full_name: Andrew
+license: MIT
+org: a-vanderheiden
+project_name: snakesay-alv
+project_short_description: A great package.
+url: https://github.com/a-vanderheiden/snakesay-alv
+vcs: true
