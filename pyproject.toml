@@ -38,6 +38,8 @@ Homepage = "https://github.com/a-vanderheiden/snakesay-alv"
 Discussions = "https://github.com/a-vanderheiden/snakesay-alv/discussions"
 Changelog = "https://github.com/a-vanderheiden/snakesay-alv/releases"
 
+[project.scripts]
+ssay = "snakesay_alv.__main__:main"
 
 [dependency-groups]
 test = [
